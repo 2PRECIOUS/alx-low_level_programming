@@ -2,7 +2,7 @@
 /**
  * _puts - to print strings
  * @str: the var
- *  */
+*/
 void _puts(char *str)
 {
 	int i = 0;
